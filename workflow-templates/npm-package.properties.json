@@ -3,8 +3,8 @@
   "description": "Builds and releases a pacage to NPM with permissions for HexLabs",
   "iconName": "hexlabs",
   "categories": [
-    "Javascript",
-    "Typescript"
+    "Typescript",
+    "Javascript"
   ],
   "filePatterns": [
     "package.json$"
