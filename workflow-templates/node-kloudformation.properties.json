@@ -1,0 +1,12 @@
+{
+  "name": "Node KloudFormation Build and Deploy",
+  "description": "Builds and Deploys a node project to dev on push and prod on release",
+  "iconName": "hexlabs",
+  "categories": [
+    "Typescript",
+    "Javascript"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}

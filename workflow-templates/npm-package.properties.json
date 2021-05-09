@@ -1,6 +1,6 @@
 {
   "name": "HexLabs NPM Package",
-  "description": "Builds and releases a pacage to NPM with permissions for HexLabs",
+  "description": "Builds and releases a package to NPM with permissions for HexLabs",
   "iconName": "hexlabs",
   "categories": [
     "Typescript",
